@@ -1,0 +1,4 @@
+Project 1 Instructions:
+
+	This project is split into two python files (.py), labled question1 and question2. In question1, the program input should be a list of positive integers of any length. The program will take that list, and using two queues, sort the list using radix sort. The input should be a list separated by a comma and a space between each element in the list that must be sorted. After the list is sorted there will be a prompt on whether or not the program should continue, type in "yes" to continue the program or "no" to terminate the program. 
+	In question2, the program will take an equation in post-fix notation (ie. 52+83-*4/) and solve it using a stack data structure. The program will take an equation as a string and solve it. It will then return the answer.
